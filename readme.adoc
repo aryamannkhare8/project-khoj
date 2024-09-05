@@ -1,0 +1,2 @@
+= This Project is for the Smart India Hackathon 2024
+= This Project is made by Team 0xDEADBEEF
